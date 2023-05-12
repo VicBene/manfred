@@ -301,6 +301,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        },
+        {
           "name": "Microsoft Power BI",
           "type": "technology"
         },
