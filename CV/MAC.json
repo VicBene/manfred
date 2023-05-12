@@ -1,0 +1,301 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Víctor",
+      "surnames": "Beneito López",
+      "title": "Ingeniero Técnico Informático y MBA",
+      "description": "Profesional del sector financiero y asegurador desde hace más de 10 años, habiendo desempeñando el cargo de Director de Agencias en CASER y anteriormente como Ejecutivo Comercial en el Banco Santander.\n\nActualmente busco un cambio profesional dentro del sector IT/TIC para así tener la oportunidad de unir mis conocimientos y habilidades TIC a mi visión de negocio/cliente y mi experiencia liderando equipos, ya que en esta unión es dónde reside mi valor diferencial como profesional. \n\nMe considero una persona que trabaja con asertividad, responsabilidad y eficiencia, lo que ha conllevado con asiduidad al cumplimiento de los objetivos fijados por las diferentes empresas en las que he trabajado.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Caser Seguros"
+        },
+        "roles": [
+          {
+            "name": "Director de Agencias",
+            "startDate": "2019-04-01",
+            "finishDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "He desempeñado las siguientes funciones en la provincia de A Coruña, dentro de la Red de Desarrollo (creación y consolidación de una red profesional de agentes de seguros):\n- Prospección de candidatos (perfiles comerciales y emprendedores),\n- Reclutamiento y selección de personal (entrevistas, cualificación),\n- Formación (interna/externa) y Marca Personal (RRSS),\n- Desarrollo y consolidación de agentes (dirección comercial) – equipo de 6 agentes autónomos,\n- Comunicación de marca (posicionamiento/diferenciación),\n- Gestión de convenios/acuerdos de colaboración con entidades e instituciones.\n\nAptitudes: Desarrollo de oportunidades de negocio · Gestión comercial · Captación y selección de candidatos · Liderazgo y gestión de equipos · Formación y desarrollo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Banco Santander"
+        },
+        "roles": [
+          {
+            "name": "Ejecutivo Comercial",
+            "startDate": "2012-02-01",
+            "finishDate": "2019-03-01",
+            "challenges": [
+              {
+                "description": "He trabajado como Ejecutivo Comercial, comenzando en una oficina de A Coruña, dentro de la red de Oficinas Punto (C.C. Los Rosales). \nEn el año 2015 fui ascendido de categoría (nivel 2) al recibir varias evaluaciones destacadas de forma consecutiva en el desempeño de mis funciones. \nEn agosto del año 2016 y debido al cierre de la oficina, me trasladaron a una oficina de mayor nivel en Ponferrada (C.C. El Rosal).\n\nAptitudes: Captación de negocio (particulares y empresas) · Gestión comercial · Asesoramiento financiero (ahorro e inversión) y de Riesgos · Atención al cliente\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PCBox"
+        },
+        "roles": [
+          {
+            "name": "Encargado de tienda",
+            "startDate": "2009-11-01",
+            "finishDate": "2011-05-01",
+            "challenges": [
+              {
+                "description": "He trabajado como encargado de la tienda situada en C/Gómez Zamalloa 10. Las funciones desempeñadas fueron las siguientes: \n- Gestión de stocks/pedidos, \n- Atención al cliente y proveedores, \n- Liderazgo y gestión de equipos (hasta 3 personas), \n- Control de negocio: márgenes, compras y ventas, \n- Organización del establecimiento, administración general.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PCBox"
+        },
+        "roles": [
+          {
+            "name": "Responsable de Calidad",
+            "startDate": "2001-11-01",
+            "finishDate": "2007-09-01",
+            "challenges": [
+              {
+                "description": "Trabajo realizado simultáneamente en 3 tiendas (A Coruña y Ferrol). Funciones:\n- Gestión de garantías con proveedores y distribuidores.\n- Técnico de soporte: mantenimiento, montajes, reparaciones y diagnósticos de equipos informáticos (hardware y software) y piezas.\n- Ventas y servicio de atención técnica (SAT) al cliente.\n"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Pascal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PL/SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Looker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Data Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Tag Manager",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fortran",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Access",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Plotly",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unix",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
+  }
+}
