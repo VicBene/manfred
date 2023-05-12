@@ -301,6 +301,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Google Data Studio",
+          "type": "technology"
+        },
+        {
           "name": "Looker",
           "type": "technology"
         },
