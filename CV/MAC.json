@@ -299,6 +299,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Data Analysis & BI",
         "Project Manager & Delivery Manager"
