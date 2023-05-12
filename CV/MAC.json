@@ -300,7 +300,8 @@
     },
     "preferences": {
       "preferredRoles": [
-        "Data Analysis & BI"
+        "Data Analysis & BI",
+        "Project Manager & Delivery Manager"
       ]
     },
     "status": "searchingActively"
