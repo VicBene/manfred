@@ -95,6 +95,12 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Gallego",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
