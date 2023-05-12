@@ -294,6 +294,16 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/victorbeneito/"
+        },
+        {
+          "type": "other",
+          "URL": "https://github.com/VicBene"
+        }
+      ],
       "contactMails": [
         "vicbene@hotmail.com"
       ]
