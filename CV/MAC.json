@@ -99,6 +99,10 @@
       {
         "name": "Gallego",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
