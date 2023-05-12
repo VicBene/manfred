@@ -301,6 +301,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Looker",
+          "type": "technology"
+        },
+        {
           "name": "Microsoft Excel",
           "type": "technology"
         },
