@@ -9,10 +9,7 @@
       "name": "Víctor",
       "surnames": "Beneito López",
       "title": "Ingeniero Técnico Informático y MBA",
-      "description": "Profesional del sector financiero y asegurador desde hace más de 10 años, habiendo desempeñando el cargo de Director de Agencias en CASER y anteriormente como Ejecutivo Comercial en el Banco Santander.\n\nActualmente busco un cambio profesional dentro del sector IT/TIC para así tener la oportunidad de unir mis conocimientos y habilidades TIC a mi visión de negocio/cliente y mi experiencia liderando equipos, ya que en esta unión es dónde reside mi valor diferencial como profesional. \n\nMe considero una persona que trabaja con asertividad, responsabilidad y eficiencia, lo que ha conllevado con asiduidad al cumplimiento de los objetivos fijados por las diferentes empresas en las que he trabajado.",
-      "location": {
-        "notes": "Autocompleted using Google Maps API"
-      }
+      "description": "Profesional del sector financiero y asegurador desde hace más de 10 años, habiendo desempeñando el cargo de Director de Agencias en CASER y anteriormente como Ejecutivo Comercial en el Banco Santander.\n\nActualmente busco un cambio profesional dentro del sector IT/TIC para así tener la oportunidad de unir mis conocimientos y habilidades TIC a mi visión de negocio/cliente y mi experiencia liderando equipos, ya que en esta unión es dónde reside mi valor diferencial como profesional. \n\nMe considero una persona que trabaja con asertividad, responsabilidad y eficiencia, lo que ha conllevado con asiduidad al cumplimiento de los objetivos fijados por las diferentes empresas en las que he trabajado."
     }
   },
   "experience": {
@@ -91,37 +88,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Pascal",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PL/SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Power BI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Analytics",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Looker",
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -133,67 +100,7 @@
       },
       {
         "skill": {
-          "name": "Jupyter",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cobol",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Windows",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Data Studio",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
           "type": "technology"
         }
       },
@@ -205,31 +112,7 @@
       },
       {
         "skill": {
-          "name": "Fortran",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Basic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Numpy",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Oracle",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLite",
+          "name": "Google Analytics",
           "type": "technology"
         }
       },
@@ -241,43 +124,49 @@
       },
       {
         "skill": {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Microsoft Access",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Plotly",
+          "name": "SQLServer",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Microsoft Office 365",
+          "name": "Google Data Studio",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Pandas",
+          "name": "Pascal",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Unix",
+          "name": "Oracle",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Github",
+          "name": "Microsoft Power BI",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "Cobol",
           "type": "technology"
         }
       },
@@ -289,13 +178,126 @@
       },
       {
         "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unix",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PL/SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Looker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Plotly",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fortran",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
           "type": "technology"
         }
       }
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "vicbene@hotmail.com"
+      ]
+    },
     "status": "searchingActively"
   }
 }
