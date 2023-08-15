@@ -11,14 +11,14 @@
       "title": "Ingeniero Técnico Informático y MBA",
       "description": "Profesional del sector financiero y asegurador desde hace más de 10 años, habiendo desempeñando el cargo de Director de Agencias en CASER y anteriormente como Ejecutivo Comercial en el Banco Santander.\n\nActualmente busco un cambio profesional dentro del sector IT/TIC para así tener la oportunidad de unir mis conocimientos y habilidades TIC a mi visión de negocio/cliente y mi experiencia liderando equipos, ya que en esta unión es dónde reside mi valor diferencial como profesional. \n\nMe considero una persona que trabaja con asertividad, responsabilidad y eficiencia, lo que ha conllevado con asiduidad al cumplimiento de los objetivos fijados por las diferentes empresas en las que he trabajado.",
       "avatar": {
-        "alt": "42747574_10216542184123000_4096122495017418752_n-removebg-preview (4).png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/12/379c52e9-231f-4ea6-893d-d65f396873dc_42747574_10216542184.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/12/379c52e9-231f-4ea6-893d-d65f396873dc_42747574_10216542184.png",
+        "alt": "42747574_10216542184123000_4096122495017418752_n-removebg-preview (4).png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña",
-        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)"
+        "municipality": "La Coruña"
       }
     }
   },
@@ -97,26 +97,26 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Gallego",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Inglés",
-        "level": "Professional working proficiency"
-      },
-      {
-        "name": "Francés",
+        "name": "EN",
         "level": "Limited working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "GL",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Git",
+          "name": "AWS",
           "type": "technology"
         }
       },
@@ -128,13 +128,25 @@
       },
       {
         "skill": {
-          "name": "Windows",
+          "name": "Cobol",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Google Tag Manager",
+          "name": "Fortran",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
           "type": "technology"
         }
       },
@@ -146,25 +158,7 @@
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Basic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Access",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
+          "name": "Google Cloud",
           "type": "technology"
         }
       },
@@ -176,25 +170,49 @@
       },
       {
         "skill": {
-          "name": "Pascal",
+          "name": "Google Tag Manager",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Oracle",
+          "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Microsoft Power BI",
+          "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Cobol",
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Looker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Access",
           "type": "technology"
         }
       },
@@ -212,19 +230,7 @@
       },
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Unix",
+          "name": "Microsoft Power BI",
           "type": "technology"
         }
       },
@@ -236,31 +242,13 @@
       },
       {
         "skill": {
-          "name": "Jupyter",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
           "type": "technology"
         }
       },
@@ -272,25 +260,13 @@
       },
       {
         "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Pandas",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Looker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
+          "name": "Pascal",
           "type": "technology"
         }
       },
@@ -302,19 +278,43 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Fortran",
+          "name": "SQLServer",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unix",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
           "type": "technology"
         }
       }
@@ -324,16 +324,16 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/victorbeneito/"
+          "URL": "https://www.linkedin.com/in/victorbeneito/",
+          "type": "linkedin"
         },
         {
-          "type": "stackoverflow",
-          "URL": "https://stackoverflow.com/users/21851378/v%c3%adctor-beneito-l%c3%b3pez"
+          "URL": "https://stackoverflow.com/users/21851378/v%c3%adctor-beneito-l%c3%b3pez",
+          "type": "stackoverflow"
         },
         {
-          "type": "other",
-          "URL": "https://github.com/VicBene"
+          "URL": "https://github.com/VicBene",
+          "type": "github"
         }
       ],
       "contactMails": [
