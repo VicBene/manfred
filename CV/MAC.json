@@ -22,22 +22,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Career Break"
-        },
-        "roles": [
-          {
-            "name": "Career transition",
-            "startDate": "2022-10-01",
-            "challenges": [
-              {
-                "description": "Actualmente busco un cambio profesional dentro del sector IT/TIC como Project Manager / Gestor de Proyectos, para así tener la oportunidad de unir mis conocimientos y habilidades TIC a mi visión de negocio/cliente y mi experiencia liderando equipos, ya que en esta unión es dónde reside mi valor diferencial como profesional. Recientemente he realizando diversos cursos, gracias a los cuales he obtenido varias certificaciones profesionales relacionadas con la gestión y dirección de proyectos."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Caser Seguros",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/3041e9bb-cb94-4a98-8dfb-f2ab997dcb26_logo-caser.jpeg",
