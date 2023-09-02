@@ -481,6 +481,39 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Professional Scrum Master II (PSM II)",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "Scrum.org",
+          "description": "The Professional Scrum Master™ II (PSM II) certification validates your ability as a Scrum Master to apply the Scrum framework, support Scrum Teams and solve complex problems in the real world. When attempting the PSM II, you should have advanced Scrum knowledge and in-depth Scrum Master experience. While attendance is not a prerequisite, attending a Professional Scrum Master II class is highly recommended.\n\nPSM II includes questions from the following Focus Areas as defined in the Professional Scrum Competencies.\n- Understanding and Applying the Scrum Framework: Empiricism, Scrum Values, Scrum  Team, Events, Artifacts, Done\n- Developing People and Teams: Self-Managing Teams, Facilitation, Leadership Styles, Coaching and Mentoring\n- Managing Products with Agility: Product Backlog Management, Stakeholders & Customers\n- Developing and Delivering Products Professionally: Managing Technical Risk\n- Evolving the Agile Organization: Organizational Design & Culture",
+          "URL": "https://www.scrum.org/certificates/991681",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/97e63cd9-340e-450b-8a57-b1fea6735662_psmii.png",
+            "alt": "psmii.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Asana",
+            "type": "technology"
+          },
+          {
+            "name": "Jira",
+            "type": "technology"
+          },
+          {
+            "name": "Kanbanize",
+            "type": "technology"
+          },
+          {
+            "name": "Trello",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
