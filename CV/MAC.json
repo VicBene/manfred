@@ -38,16 +38,39 @@
       },
       {
         "organization": {
-          "name": "CASER"
+          "name": "Caser Seguros",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/3041e9bb-cb94-4a98-8dfb-f2ab997dcb26_logo-caser.jpeg",
+            "alt": "Logo Caser.jpeg"
+          },
+          "URL": "https://www.caser.es/conocenos"
         },
         "roles": [
           {
-            "name": "Director de agencia",
+            "name": "Director de Agencias",
             "startDate": "2019-04-01",
             "finishDate": "2022-09-30",
             "challenges": [
               {
-                "description": "Caser Red de Desarrollo es la iniciativa para la creación y consolidación de una red profesional de Agentes altamente cualificada. Como Director de Agencias he desempeñado las siguientes funciones en la provincia de La Coruña: \n- Prospección de perfiles comerciales y emprendedores, \n- Reclutamiento y Selección de personas, \n- Formación (Interna/Externa), \n- Desarrollo y Consolidación de Agentes (Dirección Comercial), \n- Comunicación de marca (Posicionamiento/Diferenciación), \n- Gestión de Convenios/Acuerdos de colaboración."
+                "description": "Caser Red de Desarrollo es la iniciativa para la creación y consolidación de una red profesional de Agentes altamente cualificada. Como Director de Agencias he desempeñado las siguientes funciones en la provincia de La Coruña: \n\n- Prospección de perfiles comerciales y emprendedores, \n- Reclutamiento y Selección de personas, \n- Formación (Interna/Externa), \n- Desarrollo y Consolidación de Agentes (Dirección Comercial), \n- Comunicación de marca (Posicionamiento/Diferenciación), \n- Gestión de Convenios/Acuerdos de colaboración.\n\nAptitudes: Toma de decisiones · Capacidad de análisis · Finanzas · Gestión de ventas · Recursos humanos (RR. HH.) · Liderazgo · Análisis de negocio · Gestión comercial · Liderazgo de equipos"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Office 365",
+                "type": "technology"
+              },
+              {
+                "name": "Salesforce",
+                "type": "technology"
               }
             ]
           }
