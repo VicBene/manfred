@@ -389,6 +389,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
         "name": "Jira",
         "type": "technology"
       },
