@@ -127,23 +127,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "PCBox"
-        },
-        "roles": [
-          {
-            "name": "Responsable de garantías",
-            "startDate": "2000-11-01",
-            "finishDate": "2007-09-30",
-            "challenges": [
-              {
-                "description": "- Técnico de soporte: mantenimiento, montajes, reparaciones y diagnósticos de equipos informáticos (hardware y software) y piezas.\n- Gestión de garantías con proveedores y distribuidores.\n- Ventas y servicio de atención técnica (SAT) al cliente.\n"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
