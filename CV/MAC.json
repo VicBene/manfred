@@ -514,6 +514,35 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Professional Scrum Product Owner I (PSPO I)",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "Scrum.org",
+          "description": "#Prove Your Knowledge of Product Ownership\n\nThe Professional Scrum Product Owner™ (PSPO I) certification validates your knowledge of the Scrum framework and your ability to support and enable value creation and delivery. Earning PSPO I shows your understanding of how to bridge the gap between strategy and agile product management in order to create valuable products using Scrum. The cost of PSPO I test is $200 USD per attempt. Assessment passwords do not expire and remain valid until used. See more details below.\n\nWhile attendance is not a prerequisite, the Professional Scrum Product Owner course is highly recommended. PSPO I ensures you have a fundamental understanding of the accountabilities of the Product Owner. Many questions focus on the Product Owner accountabilities based on the Scrum Guide and also the application of Scrum based on your own experience.\n\nPSPO I includes questions from the following Focus Areas as defined in the Professional Scrum Competencies.\n\n- Understanding and Applying the Scrum Framework: Empiricism, Scrum Team, Events, Artifacts, Done\n- Developing People and Teams: Self-Managing Teams\n- Managing Products with Agility: Forecasting & Release Planning, Product Vision, Product Value, Product Backlog Management, Business Strategy, Stakeholders & Customers Translation",
+          "URL": "https://www.scrum.org/certificates/981541",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/4ca2539d-666c-4a08-aec9-26ce4ea7908b_pspoi.png",
+            "alt": "pspoi.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Asana",
+            "type": "technology"
+          },
+          {
+            "name": "Jira",
+            "type": "technology"
+          },
+          {
+            "name": "Trello",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
