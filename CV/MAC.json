@@ -329,6 +329,96 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Ingeniero Técnico en Informática de Gestión",
+        "startDate": "2007-10-01",
+        "institution": {
+          "name": "Universidad Pontificia de Salamanca",
+          "description": "Estudios realizados en la UPSA (Salamanca) y UDC (A Coruña).\nCompatibilizando estudios y trabajo desde el 2001.\nAptitudes: Gestión de proyectos de programas de software · Matemáticas · Pensamiento crítico · Ingeniería informática · Python · Programación · Java",
+          "URL": "https://www.upsa.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/effde7e9-eaf3-4949-9a33-35f6bdf829f7_logo-upsa.jpeg",
+            "alt": "Logo UPSA.jpeg"
+          }
+        },
+        "finishDate": "2009-07-01",
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Cobol",
+            "type": "technology"
+          },
+          {
+            "name": "Fortran",
+            "type": "technology"
+          },
+          {
+            "name": "HTTP4s",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Office 365",
+            "type": "technology"
+          },
+          {
+            "name": "PL/SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Pascal",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "UML",
+            "type": "technology"
+          },
+          {
+            "name": "VB.NET",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Master of Business Administration (MBA)",
         "startDate": "2021-02-01",
         "institution": {
