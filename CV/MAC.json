@@ -527,6 +527,10 @@
         {
           "name": "Python",
           "type": "technology"
+        },
+        {
+          "name": "Trello",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
