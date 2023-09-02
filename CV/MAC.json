@@ -513,10 +513,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Google Data Studio",
-          "type": "technology"
-        },
-        {
           "name": "Jira",
           "type": "technology"
         },
