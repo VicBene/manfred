@@ -324,6 +324,34 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master of Business Administration (MBA)",
+        "startDate": "2021-02-01",
+        "institution": {
+          "name": "EAE Business School. Universidad de Barcelona",
+          "description": "Una visión estratégica en un entorno empresarial global.\n\nBajo la óptica gerencial, el MBA de EAE Business School ayuda a directivos y empresarios con experiencia a entender la interrelación entre las diferentes áreas funcionales de un negocio. Los participantes también desarrollan habilidades para actuar en entornos y mercados cambiantes y altamente competitivos.\n\nAptitudes: Toma de decisiones · Pensamiento crítico · Capacidad de análisis · Finanzas · Gestión de ventas · Recursos humanos (RR. HH.) · Liderazgo · Análisis de negocio",
+          "URL": "https://www.eae.es/landing/mba",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/94968f1a-df08-4108-8d39-91664cbe08c3_logo-eae.jpeg",
+            "alt": "Logo EAE.jpeg"
+          }
+        },
+        "finishDate": "2022-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Excel",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Office 365",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
@@ -394,6 +422,10 @@
       },
       {
         "name": "Jira",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Office 365",
         "type": "technology"
       },
       {
