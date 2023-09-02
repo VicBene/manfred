@@ -543,6 +543,39 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Programa Especializado - Gestión de Proyectos de Google",
+        "startDate": "2023-08-01",
+        "institution": {
+          "name": "Google - Coursera",
+          "description": "Para obtener el Certificado Profesional de Gestión de Proyectos de Google, las y los alumnos deben aprobar seis cursos desarrollados por Google, que incluyen evaluaciones interactivas y basadas en la práctica y las y los preparan para cumplir roles de nivel básico en la gestión de proyectos. Quienes terminan el programa deberían poder iniciar, planificar y ejecutar proyectos, tanto con metodologías tradicionales como Agile",
+          "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/Z5WJ96KSYPZN",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/c4c8e886-d65e-4b38-b69f-7edfe9be9b47_certificado-google.png",
+            "alt": "Certificado Google.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Asana",
+            "type": "technology"
+          },
+          {
+            "name": "Jira",
+            "type": "technology"
+          },
+          {
+            "name": "Kanbanize",
+            "type": "technology"
+          },
+          {
+            "name": "Trello",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
