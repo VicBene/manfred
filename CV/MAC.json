@@ -94,16 +94,35 @@
       },
       {
         "organization": {
-          "name": "PCBox"
+          "name": "PCBox",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/b9b7f4d1-6c92-4cf8-bdd4-821a236d48ca_logo-pcbox.jpeg",
+            "alt": "Logo PCBOX.jpeg"
+          },
+          "URL": "https://www.pcbox.com/paginas/conocenos"
         },
         "roles": [
           {
-            "name": "Delegado de tienda",
+            "name": "Encargado/Delegado de tienda",
             "startDate": "2009-11-01",
             "finishDate": "2011-04-30",
             "challenges": [
               {
-                "description": "Encargado de la tienda de Gómez Zamalloa (La Coruña) de la cadena PCBOX."
+                "description": "Encargado de la tienda de Gómez Zamalloa (La Coruña) de la cadena PCBOX.\nVentas y servicio de atención técnica (SAT) al cliente.\nGestión de equipo técnico/comercial.\n\nAptitudes: Gestión de ventas · Recursos humanos (RR. HH.) · Liderazgo"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Office 365",
+                "type": "technology"
               }
             ]
           }
