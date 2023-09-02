@@ -222,12 +222,6 @@
       },
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
@@ -552,10 +546,6 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
-      {
-        "name": "JAVA",
-        "type": "technology"
-      },
       {
         "name": "Jira",
         "type": "technology"
