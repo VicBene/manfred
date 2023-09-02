@@ -513,6 +513,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Asana",
+          "type": "technology"
+        },
+        {
           "name": "Jira",
           "type": "technology"
         },
