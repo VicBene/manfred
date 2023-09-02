@@ -194,6 +194,12 @@
       },
       {
         "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jupyter",
           "type": "technology"
         }
