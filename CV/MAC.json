@@ -1,18 +1,18 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Víctor",
       "surnames": "Beneito López",
-      "title": "Project Manager / Scrum Manager / Gestión y Liderazgo de Equipos / Analista de Datos",
-      "description": "Ingeniero Técnico en Informática de Gestión por la UPSA y MBA por la EAE Business School (2022).\n\nProfesional del sector financiero y asegurador desde hace más de 10 años, habiendo desempeñando el cargo de Director de Agencias en CASER y anteriormente como Ejecutivo Comercial en el Banco Santander.\n\nActualmente busco un cambio profesional dentro del sector IT/TIC para así tener la oportunidad de unir mis conocimientos y habilidades TIC a mi visión de negocio/cliente y mi experiencia liderando equipos, ya que en esta unión es dónde reside mi valor diferencial como profesional. \n\nMe considero una persona que trabaja con asertividad, responsabilidad y eficiencia, lo que ha conllevado con asiduidad al cumplimiento de los objetivos fijados por las diferentes empresas en las que he trabajado.",
+      "title": "IT Project Manager / Scrum Master / Gestión y Liderazgo de Equipos / Analista",
+      "description": "Ingeniero Técnico en Informática de Gestión (UPSA) y MBA por EAE Business School (2022).\n\nProfesional T-Shaped con más de 4 años de experiencia liderando equipos. Tengo amplios conocimientos y habilidades técnicas adquiridas a lo largo de mi carrera profesional y acreditadas por diferentes certificaciones profesionales.\n\nMe considero una persona que trabaja con asertividad, responsabilidad y eficiencia, lo que me ha llevado asiduamente al cumplimiento de los objetivos marcados por las diferentes organizaciones en las que he trabajado.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/87130723-3652-4dc7-a0ab-7f1cfa489059_foto-perfil-1.jpg",
-        "alt": "Foto perfil 1.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/08/2e45c09a-1ae9-4e8c-8c1d-cd24b46c134d_linkedin-photo-27902.linkedin-photo-27902",
+        "alt": "23/11/08/2e45c09a-1ae9-4e8c-8c1d-cd24b46c134d_linkedin-photo-27902.linkedin-photo-27902"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
@@ -20,45 +20,64 @@
         "region": "Galicia",
         "municipality": "La Coruña"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/victorbeneito/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/VicBene"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/victorbeneito"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/21851378/v%c3%adctor-beneito-l%c3%b3pez"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/21851378/v%c3%adctor-beneito-l%c3%b3pez"
+      }
+    ]
   },
   "experience": {
     "jobs": [
       {
         "organization": {
-          "name": "Caser Seguros",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/3041e9bb-cb94-4a98-8dfb-f2ab997dcb26_logo-caser.jpeg",
-            "alt": "Logo Caser.jpeg"
-          },
-          "URL": "https://www.caser.es/conocenos"
+          "name": "Career Break"
         },
         "roles": [
           {
-            "name": "Director de Agencias",
+            "name": "Career transition",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "En febrero de 2023 decidí hacer un cambio profesional dentro del sector TI como Project Manager / Scrum Master, para aplicar mis conocimientos y habilidades técnicas junto a mi visión de negocio/cliente y mi experiencia liderando equipos, ya que en esta unión es dónde reside mi valor diferencial como profesional. \n\nRecientemente he obtenido varias certificaciones profesionales relacionadas con la gestión y dirección de proyectos. A mayores, estoy realizando diferentes cursos de formación para actualizar y ampliar mis conocimientos en otras áreas relacionadas (programación, inglés, cloud computing, etc.)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CASER",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/08/013c63b3-baf4-4273-b28a-b6d7d935012e_linkedin-photo-27902.linkedin-photo-27902",
+            "alt": "23/11/08/013c63b3-baf4-4273-b28a-b6d7d935012e_linkedin-photo-27902.linkedin-photo-27902"
+          }
+        },
+        "roles": [
+          {
+            "name": "Director de agencia",
             "startDate": "2019-04-01",
             "finishDate": "2022-09-30",
             "challenges": [
               {
-                "description": "Caser Red de Desarrollo es la iniciativa para la creación y consolidación de una red profesional de Agentes altamente cualificada. Como Director de Agencias he desempeñado las siguientes funciones en la provincia de La Coruña: \n\n- Prospección de perfiles comerciales y emprendedores, \n- Reclutamiento y Selección de personas, \n- Formación (Interna/Externa), \n- Desarrollo y Consolidación de Agentes (Dirección Comercial), \n- Comunicación de marca (Posicionamiento/Diferenciación), \n- Gestión de Convenios/Acuerdos de colaboración.\n\nAptitudes: Toma de decisiones · Capacidad de análisis · Finanzas · Gestión de ventas · Recursos humanos (RR. HH.) · Liderazgo · Análisis de negocio · Gestión comercial · Liderazgo de equipos"
-              }
-            ],
-            "competences": [
-              {
-                "name": "CRM",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Office 365",
-                "type": "technology"
-              },
-              {
-                "name": "Salesforce",
-                "type": "technology"
+                "description": "Como Director de Agencias en la provincia de La Coruña y dentro de la Red de Desarrollo de Caser - iniciativa para la creación y consolidación de una red profesional de Agentes altamente cualificada - he desempeñado las siguientes funciones:\n\n- Prospección de perfiles comerciales y emprendedores (trabajadores autónomos).\n- Reclutamiento y selección de personas (+100 entrevistas anuales).\n- Formación (Interna/Externa) y marca personal.\n- Desarrollo y consolidación de Agentes (Dirección Comercial de equipos de hasta 10 agentes). \n- Comunicación de marca (Posicionamiento/Diferenciación).\n- Gestión de Convenios/Acuerdos de colaboración con instituciones públicas y privadas."
               }
             ]
           }
@@ -68,29 +87,39 @@
         "organization": {
           "name": "Banco Santander",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/04bd0907-611f-4768-a471-6476a0aa6a35_logo-santander.jpeg",
-            "alt": "Logo Santander.jpeg"
-          },
-          "URL": "https://www.santander.com/es/home"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/08/cdc18fff-9697-4f9b-9897-67fcd3d8a4c6_linkedin-photo-27902.linkedin-photo-27902",
+            "alt": "23/11/08/cdc18fff-9697-4f9b-9897-67fcd3d8a4c6_linkedin-photo-27902.linkedin-photo-27902"
+          }
         },
         "roles": [
           {
-            "name": "Gestor de clientes - Ejecutivo Comercial",
-            "startDate": "2012-02-01",
-            "finishDate": "2019-03-01",
+            "name": "Ejecutivo Comercial Nivel 2",
+            "startDate": "2015-06-01",
+            "finishDate": "2019-03-31",
             "challenges": [
               {
-                "description": "Gestor de clientes en la oficina 1639 (C.C. Rosales - La Coruña)\nEjecutivo comercial II en la oficina 6507 (C.C. El Rosal - Ponferrada)\n\nAptitudes: Captación de negocio (particulares y empresas), Gestión comercial, Asesoramiento Financiero y de Riesgos, Atención al cliente."
+                "description": "Ejecutivo Comercial N2 en la oficina 6507 (Ponferrada - C.C. El Rosal)"
               }
-            ],
-            "competences": [
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Banco Santander",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/08/a41057f0-8fe4-45af-9a68-f2c5391923e7_linkedin-photo-27902.linkedin-photo-27902",
+            "alt": "23/11/08/a41057f0-8fe4-45af-9a68-f2c5391923e7_linkedin-photo-27902.linkedin-photo-27902"
+          }
+        },
+        "roles": [
+          {
+            "name": "Gestor de clientes",
+            "startDate": "2012-02-01",
+            "finishDate": "2015-05-31",
+            "challenges": [
               {
-                "name": "Microsoft Excel",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Office 365",
-                "type": "technology"
+                "description": "Gestor de clientes en la oficina 1639 (C.C. Rosales - La Coruña)"
               }
             ]
           }
@@ -100,33 +129,39 @@
         "organization": {
           "name": "PCBox",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/b9b7f4d1-6c92-4cf8-bdd4-821a236d48ca_logo-pcbox.jpeg",
-            "alt": "Logo PCBOX.jpeg"
-          },
-          "URL": "https://www.pcbox.com/paginas/conocenos"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/08/16097082-c321-4258-a209-9c334a49f5f4_linkedin-photo-27902.linkedin-photo-27902",
+            "alt": "23/11/08/16097082-c321-4258-a209-9c334a49f5f4_linkedin-photo-27902.linkedin-photo-27902"
+          }
         },
         "roles": [
           {
-            "name": "Encargado/Delegado de tienda",
-            "startDate": "2001-11-01",
+            "name": "Delegado de tienda",
+            "startDate": "2009-11-01",
             "finishDate": "2011-04-30",
             "challenges": [
               {
-                "description": "Gerencia del establecimiento desde el año 2009, situado en Gómez Zamalloa (La Coruña) de la cadena PCBOX.\nVentas y servicio de atención técnica (SAT) al cliente.\nGestión de equipo técnico/comercial.\n\nAptitudes: Gestión de ventas · Recursos humanos (RR. HH.) · Liderazgo"
+                "description": "Encargado de la tienda de Gómez Zamalloa (La Coruña) de la cadena PCBOX."
               }
-            ],
-            "competences": [
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PCBox",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/08/57d99b53-511b-40de-87e5-1f1b68839ce2_linkedin-photo-27902.linkedin-photo-27902",
+            "alt": "23/11/08/57d99b53-511b-40de-87e5-1f1b68839ce2_linkedin-photo-27902.linkedin-photo-27902"
+          }
+        },
+        "roles": [
+          {
+            "name": "Responsable de garantías",
+            "startDate": "2000-11-01",
+            "finishDate": "2007-09-30",
+            "challenges": [
               {
-                "name": "CRM",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Office 365",
-                "type": "technology"
+                "description": "- Técnico de soporte: mantenimiento, montajes, reparaciones y diagnósticos de equipos informáticos (hardware y software) y piezas.\n- Gestión de garantías con proveedores y distribuidores.\n- Ventas y servicio de atención técnica (SAT) al cliente.\n"
               }
             ]
           }
@@ -138,18 +173,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "FR",
-        "level": "Limited working proficiency"
-      },
-      {
         "name": "GL",
+        "fullName": "Gallego",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -367,6 +401,22 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "ITIL 4 ® Foundation",
+        "startDate": "2023-10-01",
+        "institution": {
+          "name": "Axelos",
+          "description": "ITIL® 4 Foundation demonstrates this individual understands the key concepts of IT and digital service delivery including the key concepts, guiding principles and practices of ITIL® 4 for service management. They have a fundamental understanding of the modern organisation’s end-to-end operating model for the creation, delivery and continual improvement of technology-enabled products and services. They have an awareness of how cultural or behavioural principles benefits the wider organization.",
+          "URL": "https://www.credly.com/badges/d4bea15a-a211-420a-a58d-7627a28bd52d/public_url",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/08/c3aa338f-2868-4d5d-95ab-4183af869fc1_itil-4.png",
+            "alt": "Itil 4.png"
+          }
+        },
+        "finishDate": "2026-10-01"
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero Técnico en Informática de Gestión",
@@ -576,6 +626,27 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer",
+        "startDate": "2023-10-01",
+        "institution": {
+          "name": "Python Institute",
+          "description": "[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer",
+          "URL": "https://www.credly.com/badges/2cbe4bd7-e7f3-42c4-8a23-71eb8500d4ee",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/08/39619db9-67b6-4e2e-8dff-858be99b082e_pcep-30-02-badge.png",
+            "alt": "pcep-30-02-badge.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
@@ -660,6 +731,6 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "Actualmente busco un cambio profesional dentro del sector IT/TIC para así tener la oportunidad de unir mis conocimientos y habilidades TIC a mi visión de negocio/cliente y mi experiencia liderando equipos, ya que en esta unión es dónde reside mi valor diferencial como profesional. \n"
+    "desiredJobDescription": "Profesional T-Shaped con más de 4 años de experiencia liderando equipos. Tengo amplios conocimientos y habilidades técnicas adquiridas a lo largo de mi vida laboral y acreditadas por diferentes certificaciones profesionales.\n\nActualmente busco un puesto de Project Manager / Scrum Master dentro del sector IT para así tener la oportunidad de unir mis conocimientos y habilidades IT a mi visión de negocio/cliente y mi experiencia liderando equipos, ya que en esta unión es dónde reside mi valor diferencial como profesional. \n\nMe considero una persona que trabaja con asertividad, responsabilidad y eficiencia, lo que me ha llevado asiduamente al cumplimiento de los objetivos marcados por las diferentes organizaciones en las que he trabajado."
   }
 }
