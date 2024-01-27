@@ -478,9 +478,7 @@
         }
       ],
       "preferredRoles": [
-        "Product Owner",
-        "Project Manager & Delivery Manager",
-        "Scrum Master & Agile Coach"
+        "Project Manager & Delivery Manager"
       ]
     },
     "status": "openToOffers"
