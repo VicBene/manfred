@@ -11,8 +11,8 @@
       "title": "Gestor de QA / QA Manager en Altia",
       "description": "Ingeniero Técnico en Informática de Gestión (UPSA) y MBA por EAE Business School (2022).\n\nProfesional T-Shaped con más de 4 años de experiencia liderando equipos. Tengo amplios conocimientos y habilidades técnicas adquiridas a lo largo de mi carrera profesional y acreditadas por diferentes certificaciones profesionales.\n\nMe considero una persona que trabaja con asertividad, responsabilidad y eficiencia, lo que me ha llevado asiduamente al cumplimiento de los objetivos marcados por las diferentes organizaciones en las que he trabajado.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/eba1f616-3f66-455c-a808-08c81ace9e1c_linkedin-photo-27902.linkedin-photo-27902",
-        "alt": "24/01/27/eba1f616-3f66-455c-a808-08c81ace9e1c_linkedin-photo-27902.linkedin-photo-27902"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/c74ebfa2-8fd6-478d-83e5-114a15a9c51b_linkedin-photo-27902.linkedin-photo-27902",
+        "alt": "24/01/27/c74ebfa2-8fd6-478d-83e5-114a15a9c51b_linkedin-photo-27902.linkedin-photo-27902"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
@@ -37,6 +37,152 @@
       {
         "type": "stackoverflow",
         "URL": "https://stackoverflow.com/users/21851378/v%c3%adctor-beneito-l%c3%b3pez"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Altia",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/98b2cf6b-78fb-4abb-8781-488e6f764ace_linkedin-photo-27902.linkedin-photo-27902",
+            "alt": "24/01/27/98b2cf6b-78fb-4abb-8781-488e6f764ace_linkedin-photo-27902.linkedin-photo-27902"
+          }
+        },
+        "roles": [
+          {
+            "name": "Responsable de aseguramiento de la calidad",
+            "startDate": "2023-12-01",
+            "challenges": [
+              {
+                "description": "Skills: Gestión de servicios de TI · Mejora de procesos · Gestión de proyectos · Gestión de riesgos · Negociación"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Career Break"
+        },
+        "roles": [
+          {
+            "name": "Career transition",
+            "startDate": "2022-10-01",
+            "finishDate": "2023-12-31",
+            "challenges": [
+              {
+                "description": "En marzo de 2023 decidí hacer un cambio profesional dentro del sector TI para aplicar mis conocimientos y habilidades técnicas junto a mi visión de negocio/cliente y mi experiencia liderando equipos, ya que en esta unión es dónde reside mi valor diferencial como profesional.\n\nA lo largo de este periodo de reconversión obtuve varias certificaciones profesionales relacionadas con la gestión y dirección de proyectos, gestión de servicios, programación y otras disciplinas. A mayores, estoy realizando diferentes cursos de formación para actualizar y ampliar mis conocimientos en otras áreas relacionadas (inglés, cloud computing, sistemas, etc.)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CASER",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/cf36fbb9-86e6-4816-aaed-6281b1d2a433_linkedin-photo-27902.linkedin-photo-27902",
+            "alt": "24/01/27/cf36fbb9-86e6-4816-aaed-6281b1d2a433_linkedin-photo-27902.linkedin-photo-27902"
+          }
+        },
+        "roles": [
+          {
+            "name": "Director de agencia",
+            "startDate": "2019-04-01",
+            "finishDate": "2022-09-30",
+            "challenges": [
+              {
+                "description": "Como Director de Agencias en la provincia de La Coruña y dentro de la Red de Desarrollo de Caser - iniciativa para la creación y consolidación de una red profesional de Agentes altamente cualificada - he desempeñado las siguientes funciones:\n\n- Prospección de perfiles comerciales y emprendedores (trabajadores autónomos).\n- Reclutamiento y selección de personas (+100 entrevistas anuales).\n- Formación (Interna/Externa) y marca personal.\n- Desarrollo y consolidación de Agentes (Dirección Comercial de equipos de hasta 10 agentes).\n- Comunicación de marca (Posicionamiento/Diferenciación).\n- Gestión de Convenios/Acuerdos de colaboración con instituciones públicas y privadas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Banco Santander",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/9fde682c-8af0-45a7-8b97-4a8cc45521ac_linkedin-photo-27902.linkedin-photo-27902",
+            "alt": "24/01/27/9fde682c-8af0-45a7-8b97-4a8cc45521ac_linkedin-photo-27902.linkedin-photo-27902"
+          }
+        },
+        "roles": [
+          {
+            "name": "Ejecutivo Comercial Nivel 2",
+            "startDate": "2015-06-01",
+            "finishDate": "2019-03-31",
+            "challenges": [
+              {
+                "description": "Ejecutivo Comercial N2 en la oficina 6507 (Ponferrada - C.C. El Rosal)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Banco Santander",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/67df1d78-4770-4897-8b63-376a2ac79c61_linkedin-photo-27902.linkedin-photo-27902",
+            "alt": "24/01/27/67df1d78-4770-4897-8b63-376a2ac79c61_linkedin-photo-27902.linkedin-photo-27902"
+          }
+        },
+        "roles": [
+          {
+            "name": "Gestor de clientes",
+            "startDate": "2012-02-01",
+            "finishDate": "2015-05-31",
+            "challenges": [
+              {
+                "description": "Gestor de clientes en la oficina 1639 (C.C. Rosales - La Coruña)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PCBox",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/c9d2cf44-8ebb-45b4-9abb-bdf66f5c85b8_linkedin-photo-27902.linkedin-photo-27902",
+            "alt": "24/01/27/c9d2cf44-8ebb-45b4-9abb-bdf66f5c85b8_linkedin-photo-27902.linkedin-photo-27902"
+          }
+        },
+        "roles": [
+          {
+            "name": "Delegado de tienda",
+            "startDate": "2009-11-01",
+            "finishDate": "2011-04-30",
+            "challenges": [
+              {
+                "description": "Encargado de la tienda de Gómez Zamalloa (La Coruña) de la cadena PCBOX."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PCBox",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/1e512c49-bd2c-43c9-8658-125f7c781f89_linkedin-photo-27902.linkedin-photo-27902",
+            "alt": "24/01/27/1e512c49-bd2c-43c9-8658-125f7c781f89_linkedin-photo-27902.linkedin-photo-27902"
+          }
+        },
+        "roles": [
+          {
+            "name": "Responsable de garantías",
+            "startDate": "2000-11-01",
+            "finishDate": "2007-09-30",
+            "challenges": [
+              {
+                "description": "- Técnico de soporte: mantenimiento, montajes, reparaciones y diagnósticos de equipos informáticos (hardware y software) y piezas.\n- Gestión de garantías con proveedores y distribuidores.\n- Ventas y servicio de atención técnica (SAT) al cliente.\n"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
