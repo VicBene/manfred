@@ -246,6 +246,12 @@
       },
       {
         "skill": {
+          "name": "Google Looker Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Google Tag Manager",
           "type": "technology"
         }
@@ -277,12 +283,6 @@
       {
         "skill": {
           "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Looker",
           "type": "technology"
         }
       },
@@ -668,12 +668,6 @@
       ],
       "contactMails": [
         "vicbene@hotmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "669797536",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -710,7 +704,7 @@
         "Scrum Master & Agile Coach"
       ]
     },
-    "status": "searchingActively"
+    "status": "openToOffers"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
