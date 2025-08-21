@@ -420,6 +420,14 @@
         },
         "finishDate": "2022-06-30"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
