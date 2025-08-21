@@ -485,7 +485,8 @@
       ],
       "preferredRoles": [
         "Customer Service & Support",
-        "IT Manager"
+        "IT Manager",
+        "QA & Testing Engineer"
       ]
     },
     "status": "searchingActively"
