@@ -448,6 +448,12 @@
       ],
       "contactMails": [
         "vicbene@hotmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "669797536",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
@@ -482,7 +488,7 @@
         "Scrum Master & Agile Coach"
       ]
     },
-    "status": "openToOffers"
+    "status": "searchingActively"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
