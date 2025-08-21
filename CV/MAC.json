@@ -427,6 +427,21 @@
         "finishDate": "2016-01-01"
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "ITIL® 4 Certifications",
+        "startDate": "2023-10-01",
+        "institution": {
+          "name": "PeopleCert",
+          "description": "ITIL® 4 Foundation - 10/2023\nITIL® 4 Specialist Drive Stakeholder Value - 03/2024\nITIL® 4 Strategist Direct, Plan and Improve - 02/2025\n",
+          "URL": "https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNJKAC9MLmCUDNfYYzqkPrAG",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/08/21/6f01ec0d-6765-4734-ad81-b11c57f7b3ae_itil-logo-cert-325x7.png",
+            "alt": "itil-logo-cert-325x73.png"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master of Business Administration - MBA, Empresa, gestión, marketing y disciplinas afines",
