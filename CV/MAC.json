@@ -31,10 +31,6 @@
         "URL": "https://github.com/VicBene"
       },
       {
-        "type": "twitter",
-        "URL": "https://twitter.com/victorbeneito"
-      },
-      {
         "type": "stackoverflow",
         "URL": "https://stackoverflow.com/users/21851378/v%c3%adctor-beneito-l%c3%b3pez"
       }
@@ -440,10 +436,6 @@
         {
           "URL": "https://github.com/VicBene",
           "type": "github"
-        },
-        {
-          "URL": "https://twitter.com/victorbeneito",
-          "type": "twitter"
         }
       ],
       "contactMails": [
