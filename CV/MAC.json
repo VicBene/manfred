@@ -481,10 +481,6 @@
         {
           "name": "ServiceNow",
           "type": "technology"
-        },
-        {
-          "name": "Trello",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
