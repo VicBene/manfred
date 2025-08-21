@@ -40,7 +40,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "Altia",
+          "name": "Altia Consultores S.A.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/27/5dff6e11-2898-462b-8250-bb0436d014fc_linkedin-photo-27902.linkedin-photo-27902",
             "alt": "24/01/27/5dff6e11-2898-462b-8250-bb0436d014fc_linkedin-photo-27902.linkedin-photo-27902"
@@ -48,11 +48,25 @@
         },
         "roles": [
           {
-            "name": "Responsable de aseguramiento de la calidad",
+            "name": "Service Manager Assistant & QA Manager",
             "startDate": "2023-12-01",
             "challenges": [
               {
-                "description": "Skills: Gestión de servicios de TI · Mejora de procesos · Gestión de proyectos · Gestión de riesgos · Negociación"
+                "description": "Asumo un rol dual como QA Manager y Service Manager Assistant en el Servicio de Administración y Operación (COTI) que Altia proporciona a //ABANCA, asumiendo responsabilidades tanto en la gestión de la calidad del servicio como en el soporte directo a la gestión global del mismo. Entre mis principales funciones se incluyen:\n\nFunciones como QA Manager (ITSM):\n1. Seguimiento y aseguramiento del cumplimiento de los Acuerdos de Nivel de Servicio (SLAs).\n2. Supervisión de la calidad operativa del servicio conforme a los principios de ITIL 4.\n3. Coordinación de la gestión de incidentes y problemas críticos, incluyendo análisis forense (PIR).\n4. Identificación y promoción de acciones de mejora continua del servicio.\n5. Monitorización del riesgo operativo y cumplimiento normativo (incluyendo DORA).\n6. Gestión de la relación con el cliente interno, en coordinación con los distintos roles implicados.\n7. Coordinación transversal con los equipos técnicos, la gerencia y la dirección del servicio.\n\nFunciones como Service Manager Assistant:\n1. Apoyo directo al Service Manager en la planificación, supervisión y reporte del estado del servicio.\n2. Elaboración y revisión de documentación operativa y estratégica (SOPs, informes mensuales, indicadores).\n3. Seguimiento de acciones derivadas de auditorías internas, comités de calidad y planes de acción del cliente.\n4. Participación en la coordinación de la capacidad operativa (people planning) y en la revisión de la carga de trabajo.\n5. Soporte en la interlocución con el cliente en tareas de backoffice de gestión del servicio.\n6. Análisis de métricas y KPIs del servicio, elaboración de informes ejecutivos y soporte a la toma de decisiones.\n7. Supervisión del cumplimiento de procesos ITSM, asegurando trazabilidad, documentación y calidad en la gestión de tickets."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Office 365",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "ServiceNow",
+                "type": "technology"
               }
             ]
           }
