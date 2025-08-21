@@ -368,6 +368,12 @@
       },
       {
         "skill": {
+          "name": "ServiceNow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Unix",
           "type": "technology"
         }
@@ -516,7 +522,15 @@
         "type": "technology"
       },
       {
+        "name": "Microsoft Power BI",
+        "type": "technology"
+      },
+      {
         "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "ServiceNow",
         "type": "technology"
       }
     ],
