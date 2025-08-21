@@ -482,6 +482,9 @@
           "name": "Trello",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Customer Service & Support"
       ]
     },
     "status": "searchingActively"
